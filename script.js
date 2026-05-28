@@ -1,7 +1,3 @@
-// ADVANCED PORTFOLIO ANIMATIONS
-// Add this code inside script.js
-
-
 // CUSTOM CURSOR GLOW
 
 const glow = document.getElementById('cursor-glow');
